@@ -1,1 +1,32 @@
-sdjfjwfjhw
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Website</title>
+</head>
+<body>
+    
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
+
+    <main>
+        <p>Hello! This is my live website hosted on GitHub Pages.</p>
+        
+        <h2>About Me</h2>
+        <p>Write a brief introduction about who you are, what you are studying, or what you are working on here.</p>
+
+        <h2>My Projects</h2>
+        <ul>
+            <li>Project 1 - A brief description of what you built.</li>
+            <li>Project 2 - Another cool project link.</li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 My GitHub Space</p>
+    </footer>
+
+</body>
+</html>
